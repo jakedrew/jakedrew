@@ -34,7 +34,7 @@
 ### 📊 GitHub Stats:
 ![Jake Drews's github stats](https://github-readme-stats.vercel.app/api?username=jakedrew&show_icons=true&theme=vue&count_private=true&include_all_commits=true)
 
-![Jake Drew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakedrew&layout=compact)
+![Jake Drew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakedrew&layout=compact&title_color=41b883&text_color=273849)
 
 
 [linkedin]: https://www.linkedin.com/in/jakedrw/
