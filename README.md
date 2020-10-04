@@ -32,7 +32,10 @@
 <br />
 
 ### 📊 GitHub Stats:
-![Jake Drews's github stats](https://github-readme-stats.vercel.app/api?username=jakedrew&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+![Jake Drews's github stats](https://github-readme-stats.vercel.app/api?username=jakedrew&show_icons=true&theme=vue&count_private=true&include_all_commits=true)
+
+![Jake Drew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakedrew)
+
 
 [linkedin]: https://www.linkedin.com/in/jakedrw/
 [instagram]: https://www.instagram.com/jakemichaeldrew/
