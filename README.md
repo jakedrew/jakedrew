@@ -1,10 +1,7 @@
 ### Howdy, I'm Jake Drew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-This is the place where I opensource stuff and break things 🤣
-
-- 🔭 I’m currently working on something really cool 😉
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on more open source projects.
+- 📓 I’m currently a student at Swansea University studying Electrical and Electronic Engineering
+- 🔭 You'll find some of my personal projects and university projects here
 - 📫 How to reach me: [@jakedrw][linkedin]
 
 ### Connect with me:
