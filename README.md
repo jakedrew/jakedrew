@@ -2,7 +2,7 @@
 
 - 📓 I’m currently a student at Swansea University studying Electrical and Electronic Engineering
 - 🔭 You'll find some of my personal projects and university projects here
-- 📫 How to reach me: [@jakedrw][linkedin]
+- 📫 How to reach me: [@jakedrw][linkedin] or [@jakemichaeldrew][instagram]
 
 ### Connect with me:
 
