@@ -1,4 +1,4 @@
-### Howdy, I'm Jake Drew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Jake Drew <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 📓 I’m currently a student at Swansea University studying Electrical and Electronic Engineering
 - 🔭 You'll find some of my personal projects and university projects here
