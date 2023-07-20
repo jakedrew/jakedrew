@@ -38,7 +38,6 @@
 
 
 [linkedin]: https://www.linkedin.com/in/jakedrw/
-[instagram]: https://www.instagram.com/jakemichaeldrew/
 [github]: https://github.com/jakedrew
 
 
