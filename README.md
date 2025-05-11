@@ -1,5 +1,7 @@
 ## Experience:
- - Application Engineer @ Microchip Technolgy [2022 - Present]
+ - Software Engineer @ Symetrica Security [2025 - Present]
+    - Radiation Detection.
+ - Application Engineer @ Microchip Technolgy [2022 - 2025]
     - maXTouch.
  - Reservist @ British Army [2019 - 2023]
     - Royal Engineers.  
