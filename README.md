@@ -1,6 +1,6 @@
 ## Experience
 
- - Software Engineer @ Symetrica Security [2025 - Present]
+ - Senior Software Engineer @ Symetrica Security [2025 - Present]
     - VeriFinders.
  - Application Engineer @ Microchip Technolgy [2022 - 2025]
     - maXTouch.
