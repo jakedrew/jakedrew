@@ -1,19 +1,9 @@
-## Experience
+[jakedrw.com](https://jakedrw.com)
 
- - Senior Software Engineer @ Symetrica Security [2025 - Present]
-    - VeriFinders.
- - Application Engineer @ Microchip Technology [2022 - 2025]
-    - maXTouch.
- - Reservist @ British Army [2019 - 2023]
-    - Royal Engineers.  
- 
- ## Education
- 
- - Swansea University [2018 - 2022]
-    - Electrical and Electronic Engineering.
+- Senior Software Engineer @ Symetrica Security [2025 - Present]: VeriFinder, C++/Linux
+- Applications Engineer @ Microchip Technology [2022 - 2025]: maXTouch
 
-### 
-[<img align="left" alt="jakedrew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
-[linkedin]: https://www.linkedin.com/in/jakedrw/
+**Open source**
+- [rust-lang/rust#161791](https://github.com/rust-lang/rust/pull/161791): free drop for an empty `BTreeMap` (43 instructions → `ret`)
+- [rust-lang/rust#155132](https://github.com/rust-lang/rust/pull/155132): similar-name suggestions for unrecognised `--target`
+- [telemetry](https://github.com/jakedrew/telemetry): Rust/Tokio gRPC + SSE streaming server
